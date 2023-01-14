@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito baseado no Rocketseat.
+Feito baseado no DevLink da Rocketseat.
